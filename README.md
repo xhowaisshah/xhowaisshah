@@ -1,48 +1,43 @@
 # 👋 Hi, I'm Owais Shah!  
 
-### 💻 MERN Stack Developer | Blockchain Enthusiast | Automation Specialist  
+### 💻 MERN Stack Developer | Blockchain Enthusiast
 
-Welcome to my GitHub! I’m a passionate **MERN Stack Developer** with over a year of experience crafting scalable, high-performance web applications. I specialize in building robust back-end systems, creating dynamic front-end experiences, and integrating cutting-edge Web3 technologies.  
+Passionate **MERN Stack Developer** with 1+ year of experience building scalable, high-performance web applications. I specialize in back-end development, dynamic front-end experiences, and integrating cutting-edge **Web3** technologies.
 
 ---
 
 ## 🚀 About Me  
-- 🌐 **Expertise:** MERN stack, TypeScript, Web3 integrations, automation, and real-time applications.  
-- 📖 **Current Focus:** Developing innovative solutions with **React.js**, **Next.js**, **Node.js**, and exploring blockchain-based systems with **Solidity** and **ThirdWeb**.  
-- 💡 **Interests:** Blockchain, AI integration, real-time data handling, and automation tools.  
-- 🌱 **Always Learning:** I thrive on keeping up with the latest trends and technologies to deliver top-notch solutions.  
+- **Focus:** React.js, Next.js, Node.js, and blockchain technologies like **Solidity** and **ThirdWeb**.  
+- **Tech Interests:** **Web3**, **AI**, **Automation**, and **Real-Time Apps**.  
+- **Learning:** Always evolving with new tools, frameworks, and practices.
 
 ---
 
 ## 🛠️ Skills  
-### Languages & Frameworks  
-- **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Node.js**, **Express.js**, **GraphQL**, **tRPC**, **Solidity**  
-### Databases  
-- **MongoDB**, **Prisma**, **Drizzle**, **Redis**  
-### DevOps & Tools  
-- **Kafka**, **Bull.js**, **Puppeteer**, **Firebase**, **Socket.IO**, **Stripe**, **PayPal**  
-### Other  
-- **Web3 Integration**, **Real-Time Applications**, **Blockchain**, **Automation**  
+- **Languages:** JavaScript, TypeScript  
+- **Frameworks:** React.js, Next.js, Node.js, Express.js  
+- **Web3 Tools:** Solidity, ThirdWeb  
+- **Databases:** MongoDB, Prisma, Redis  
+- **DevOps:** Kafka, Bull.js, Puppeteer, Firebase  
+- **Others:** Socket.IO, Stripe, PayPal
 
 ---
 
-## 🌟 Projects  
-Here are a few notable projects I’ve worked on:  
+## 🌟 Notable Projects  
+- **Social Grenade:** Node.js bot for automating social media management.  
+- **ShyneNetwork:** Role-based platform for managing apartment community cleanliness.  
+- **Vegan Rob’s DAO:** Blockchain DAO for improving Web3 wallet interactions and smart contracts.
 
-- **Social Grenade:** A Node.js automation bot for car dealership agents to streamline social media management.  
-- **ShyneNetwork:** A platform to maintain cleanliness in apartment communities with role-based access and dynamic dashboards.  
-- **Vegan Rob’s DAO:** A blockchain-based DAO platform resolving Web3 wallet connectivity and improving smart contract interactions.  
-
-Check out my repos to see more of my work!  
+Explore my projects in the repos!
 
 ---
 
 ## 📈 GitHub Stats  
 ![Owais Shah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xhowaisshah&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xhowaisshah&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xhowaisshah&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect with Me  
-- 🌐 **[LinkedIn]([https://www.linkedin.com/in/owais-shah](https://www.linkedin.com/in/xhowais/))**  
-- 🐙 **[GitHub]([https://github.com/your-username](https://github.com/xhowaisshah))**  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/xhowais/)  
+- 🐙 [GitHub](https://github.com/xhowaisshah)
