@@ -38,8 +38,8 @@ Check out my repos to see more of my work!
 ---
 
 ## 📈 GitHub Stats  
-![Owais Shah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![Owais Shah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xhowaisshah&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xhowaisshah&layout=compact&theme=radical)  
 
 ---
 
